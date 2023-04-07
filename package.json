@@ -1,0 +1,26 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "hello world application on Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uscinavicius/electron-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Darius Uscinavicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uscinavicius/electron-demo/issues"
+  },
+  "homepage": "https://github.com/Uscinavicius/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
+}
